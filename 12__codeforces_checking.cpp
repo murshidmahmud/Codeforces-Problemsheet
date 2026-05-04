@@ -1,19 +1,17 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
- 
+
 int main()
 {
     int t;
-    cin>>t;
+    cin >> t;
 
-    for(int i=1; i<=t; i++){
+    for (int i = 1; i <= t; i++)
+    {
         char A;
-        cin>>A;
+        cin >> A;
 
         string s = "codeforces";
-        
     }
     return 0;
 }
-
-
